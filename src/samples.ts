@@ -24,6 +24,7 @@ export default {
         "推導上海話": "zaonhe",
         "推導廣州話": "gwongzau",
         "推導新塘話": "sangtong",
+        "推導港拼": "kongping",
     },
     "人造音系": {
         "綾香思考音系": "ayaka_v8",
